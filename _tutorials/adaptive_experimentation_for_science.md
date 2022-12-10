@@ -4,7 +4,7 @@ title: "Adaptive Experimentation for Science: A more efficient alternative to de
 schedule: "October, 2022"
 ---
 
-[Tutorial video (YouTube)]([https://www.desice.io/](https://drive.google.com/file/d/1D-BQ0h7INpODkhVUGK5uCS-fqfYzZ-c9/view?usp=sharing))
+[Tutorial video (YouTube)]([https://www.desice.io/](https://drive.google.com/file/d/1D-BQ0h7INpODkhVUGK5uCS-fqfYzZ-c9/view)
 
 "Give me six hours to chop down a tree and I will spend the first four sharpening the axe." Design of experiments is a method for scientists to study the relationship between inputs and outputs for a complex system, however, it is limited in efficiency as it is typically “one-shot” approach that doesn’t leverage prior data to inform future decisions. On the other hand, adaptive experimentation relies on iteratively updating
 beliefs about the behavior of a system to decide on the next experiment(s) to run. In this tutorial, we demonstrate how to apply state-of-the-art adaptive experimentation tools to a wide variety of tasks of increasing difficulty: closed-loop single-worker simulation optimization, machine learning model tuning, asynchronous/multi-worker optimization, multi-objective optimization, multi-fidelity optimization, offline (human-in-the-loop) batch optimization, and closed-loop robotic optimization (in-house demo provided!). The tutorial will largely focus on applying Bayesian optimization tools from Meta’s Adaptive Experimentation (Ax) Platform to scientific applications. By becoming proficient with the latest software and algorithms (“sharpening the axe”), you will be well-equipped to dramatically accelerate scientific discovery in your own research lab.
